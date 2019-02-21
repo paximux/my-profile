@@ -1,0 +1,42 @@
+h1 {
+	color:#006D2E;
+	font-style: 
+}
+h2 {
+  color: red;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+h1,h2,h3 {
+	font-family: "Helvetica", sans-serif;
+}
+
+body {
+  color: black;
+}
+h1 {
+  color: #006D2E;
+}
+div {
+	background: #6ECCB5
+	border:2px black;
+}
+.img-bordered {
+  border: 10px solid red;
+}
+#a1{
+	background-color: grey;
+	border: 10px solid #006D2E;
+	margin: 100px;
+	padding: 40px;
+}
+#a2{
+	background-color: pink;
+	border:30px solid grey;
+	margin: 100px;
+	padding: 50px;
+}
+#a3{
+	border:10px solid #006D2E ; 
+	margin:auto;
+}
